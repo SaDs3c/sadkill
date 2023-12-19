@@ -1,0 +1,2 @@
+# sadkill
+kill all process
